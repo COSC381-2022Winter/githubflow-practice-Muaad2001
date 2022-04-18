@@ -1,5 +1,5 @@
-# Movies Website for COSC381
-## Steps for starting the website (development mode)
+# Flask App for COSC381
+## Steps for starting a Flask App
 
 1. Create a virtual environment in the root directory: 'python3 -m venv venv'
 2. Activate the virtual enviornment: 'source venv/bin/activate'
